@@ -7,9 +7,9 @@ To analyze and compare weather temperature trends of Oahu for June and December 
 
 ## Results
 
-![JuneTemps](githubcomDavidFGitH)
+![JuneTemps](https://github.com/DavidFGitH/surfs_up/blob/main/Resources/June_Temps.png)
 
-![DecTemps](githubcomDavidFGitH)
+![DecTemps](https://github.com/DavidFGitH/surfs_up/blob/main/Resources/December_Temps.png)
 
 - The first thing that stands out is that the mean of the December temperatures are approximately 3.9 degrees lower than the mean of June temperatures. The lower temperatures are relatively consistent across the range of both months, with minimum of December being 8 degrees lower and the median being 4 degrees lower than the minimum and median temperature of June.
 
